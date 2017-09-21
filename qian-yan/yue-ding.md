@@ -12,9 +12,7 @@
 >
 > 警告      关于有丢失数据的风险或安全漏洞的危险信息提示
 
-&lt;font color=red&gt;内容&lt;/font&gt;
-
-&lt;font color=\#0099ff size=7 face="黑体"&gt;color=\#0099ff size=72 face="黑体"&lt;/font&gt;命令提示符
+## 命令提示符
 
 * “$” 提示符表示任意用户，包括root用户，都可以运行的命令。
 
