@@ -36,7 +36,7 @@ PONG
 
 * #### Windows 系统安装 Redis
 
-  > 官网给出的说明是并没有正式支持Windows平台，但是，Microsoft Open Tech组织开发并维护了面向Win64的Window口[Learn more](https://github.com/MSOpenTech/redis)
+  > 官网给出的说明是并没有正式支持Windows平台，但是，Microsoft Open Tech组织开发并维护了面向Win64的Window的端口  ===》[Learn more](https://github.com/MSOpenTech/redis)
 
 
 
