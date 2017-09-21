@@ -9,5 +9,5 @@
 * [Python操作Redis](pythoncao-zuo-redis.md)
 * [前言](qian-yan.md)
   * [注意事项](qian-yan/zhu-yi-shi-xiang.md)
-* [注意事项](zhu-yi-shi-xiang.md)
+  * [约定](qian-yan/yue-ding.md)
 
