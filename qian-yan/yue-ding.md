@@ -2,21 +2,19 @@
 
 本手册使用了多种排版约定
 
-
-
 ## 申明
 
 以下形式的标志为注意项
 
 > 注意      普通提醒信息
-
+>
 > 重要      提醒用户进一步操作之前必须谨慎
-
+>
 > 警告      关于有丢失数据的风险或安全漏洞的危险信息提示
 
+&lt;font color=red&gt;内容&lt;/font&gt;
 
-
- &lt;font color=red&gt;内容&lt;/font&gt;
+&lt;font color=\#00ffff size=72&gt;color=\#00ffff&lt;/font&gt;
 
 ## 命令提示符
 
